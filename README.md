@@ -1,2 +1,2 @@
 # Journal Publications
-A open repository for sharing scripts and files related to journal publications
+An open repository for sharing scripts and files related to journal publications
