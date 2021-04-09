@@ -1,7 +1,5 @@
-# Supporting Information
+# Supplemental Information
 
-"Doping by Design: Finding New *n*-type Dopable ABX<sub>4</sub> Zintl Phases for Thermoelectrics"
+"A Graph Neural Network for Predicting Energy and Stability of Known and Hypothetical Crystal Structures"
 
-J. Qu, V. Stevanovic, E. Ertekin, and P. Gorai, *J. Materials Chemistry A* (2020).
-
-DOI: [10.1039/D0TA08238D](https://doi.org/10.1039/D0TA08238D)
+S. Pandey, J. Qu, V. Stevanovic, P. St. John, and P. Gorai, *submited* (2021).
