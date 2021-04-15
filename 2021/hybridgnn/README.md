@@ -31,8 +31,8 @@ To reproduce the models, download the following datasets:
 
 * *Crystal Structures*  
   
- * ICSD crystal structure files cannot be distributed 
- * [Relaxed structures of hypothetical materials](relaxed_hypothetical_structures.tar.gz)
+  * ICSD crystal structure files cannot be distributed 
+  * [Relaxed structures of hypothetical materials](relaxed_hypothetical_structures.tar.gz)
 
 ### Authors
 
