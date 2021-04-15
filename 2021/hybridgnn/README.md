@@ -38,9 +38,9 @@ To reproduce the models, download the following datasets:
 
 The files in this repository are curated and maintained by
 
-* [Shubham Pandey](shubhampandey[at]mines[dot]edu)
-* [Peter St. John](Peter.STJohn[at]nrel[dot]gov)
-* [Prashun Gorai](pgorai[at]mines[dot]edu)
+* [Shubham Pandey](mailto:shubhampandey[at]mines[dot]edu)
+* [Peter St. John](mailto:Peter.STJohn[at]nrel[dot]gov)
+* [Prashun Gorai](mailto:pgorai[at]mines[dot]edu)
 
 ### Cite
 "A Graph Neural Network for Predicting Energy and Stability of Known and Hypothetical Crystal Structures"
