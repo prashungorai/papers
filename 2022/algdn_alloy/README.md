@@ -10,7 +10,14 @@ The files in this repository are curated and maintained by
 
 
 ### Cite
-
-"Synthesis and Calculations of Wurtzite Al<sub>1-x</sub>Gd<sub>x</sub>N Heterostructural Alloys"
-
-M. Toriyama, K. Yazawa,  A. Norman, J. S. Mangum, H. Guthrey, G. L. Brennecka, A. Zakutayev, S. R. Bauers, P. Gorai, and N. Haegel, *Chemistry of Materials* (2022).
+```
+@article{smaha2022,
+  title={Synthesis and Calculations of Wurtzite Al$_{1-x}$Gd$_x$N Heterostructural Alloys},
+  author = {Smaha, R. W. and Yazawa, K. and Norman, A. and Mangum, J. S. and Guthrey, H. and Brennecka, G. L. and Zakutayev, A. and Bauers, S. R. and Gorai, P. and Haegel, N.},
+  journal={Chemistry of Materials},
+  volume={xx},
+  pages={xxxxxx},
+  year={2022},
+  publisher={American Chemical Society},
+}
+```
