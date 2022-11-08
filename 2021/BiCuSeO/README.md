@@ -15,4 +15,4 @@ The files in this repository are curated and maintained by
 
 "Defect Chemistry and Doping of BiCuSeO"
 
-M. Toriyama, J. Qu, G. J. Snyder, and P. Gorai, *ChemRxiv* (2021). DOI: [10.33774/chemrxiv-2021-1lw5t](https://doi.org/10.33774/chemrxiv-2021-1lw5t)
+M. Toriyama, J. Qu, G. J. Snyder, and P. Gorai, *Journal of Materials Chemistry A* **9**, 20685 (2021). DOI: [10.1039/D1TA05112A](https://doi.org/10.1039/D1TA05112A)
