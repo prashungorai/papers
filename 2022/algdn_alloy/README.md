@@ -15,9 +15,10 @@ The files in this repository are curated and maintained by
   title={Synthesis and Calculations of Wurtzite Al$_{1-x}$Gd$_x$N Heterostructural Alloys},
   author = {Smaha, R. W. and Yazawa, K. and Norman, A. and Mangum, J. S. and Guthrey, H. and Brennecka, G. L. and Zakutayev, A. and Bauers, S. R. and Gorai, P. and Haegel, N.},
   journal={Chemistry of Materials},
-  volume={xx},
-  pages={xxxxxx},
+  volume={34},
+  pages={10639-10650},
   year={2022},
   publisher={American Chemical Society},
+  doi = {dx.doi.org/10.1021/acs.chemmater.2c02783}
 }
 ```
