@@ -1,6 +1,6 @@
 # Supporting Information
 
-This repository contains (1) ferroelectric related material properties for wurtzite-type materials and (2) the structures along the ferroelectric switching pathway, calculated by SS-NEB, for AlN, ZnO, LiGaSe<sub>2</sub>, LiAlS<sub>2</sub>, and TiZnN<sub>2</sub>. The structures are provided in both VASP POSCAR and cif formats. 
+This repository contains calculated (1) structures along the polarization switching pathway (obtained from solid-state nudged elastic band) for wurtzite (AlN, ZnO) and wurtzite-type (LiGaSe<sub>2</sub>, LiAlS<sub>2</sub>, TiZnN<sub>2</sub>) materials, and (2) corresponding polarization of the structures. The structures are provided in both VASP POSCAR and CIF formats. 
 
 
 ### Authors
