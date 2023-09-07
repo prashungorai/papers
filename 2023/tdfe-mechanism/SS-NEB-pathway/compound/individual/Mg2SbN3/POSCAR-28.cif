@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Mg2SbN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43401148
+_cell_length_b   5.99908140
+_cell_length_c   10.43029651
+_cell_angle_alpha   90.11812293
+_cell_angle_beta   90.04580778
+_cell_angle_gamma   90.01473035
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2SbN3
+_chemical_formula_sum   'Mg8 Sb4 N12'
+_cell_volume   340.01719849
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.89945511  0.15868490  0.83026847  1
+  Mg  Mg1  1  0.99996376  0.14979026  0.17682155  1
+  Mg  Mg2  1  0.49720664  0.83299489  0.17687337  1
+  Mg  Mg3  1  0.48458105  0.82668023  0.82536486  1
+  Mg  Mg4  1  0.00588288  0.65176208  0.33117868  1
+  Mg  Mg5  1  0.00588183  0.65432028  0.66807696  1
+  Mg  Mg6  1  0.50148663  0.33548122  0.66519833  1
+  Mg  Mg7  1  0.50595823  0.33208834  0.32979967  1
+  Sb  Sb8  1  0.88167068  0.66297815  0.00031024  1
+  Sb  Sb9  1  0.38237343  0.31704837  0.99854363  1
+  Sb  Sb10  1  0.99813696  0.16774224  0.49939118  1
+  Sb  Sb11  1  0.49812869  0.81843343  0.49949389  1
+  N  N12  1  0.89813641  0.81982835  0.16718264  1
+  N  N13  1  0.90768714  0.81737489  0.83411630  1
+  N  N14  1  0.99926472  0.33977899  0.99758377  1
+  N  N15  1  0.47668312  0.16806431  0.83783067  1
+  N  N16  1  0.39679943  0.16276824  0.16626649  1
+  N  N17  1  0.49565034  0.64014361  0.00132414  1
+  N  N18  1  0.89235437  0.32365573  0.65663153  1
+  N  N19  1  0.89143361  0.31957475  0.34025272  1
+  N  N20  1  0.39041837  0.66591273  0.65780421  1
+  N  N21  1  0.39137657  0.66433210  0.34104623  1
+  N  N22  1  0.87945471  0.83941287  0.49978467  1
+  N  N23  1  0.37958274  0.14653690  0.49885577  1
