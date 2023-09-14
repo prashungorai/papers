@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiAlS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24565612
+_cell_length_b   6.59777556
+_cell_length_c   8.04058958
+_cell_angle_alpha   89.88794392
+_cell_angle_beta   91.36963790
+_cell_angle_gamma   90.42419114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlS2
+_chemical_formula_sum   'Li4 Al4 S8'
+_cell_volume   331.22782610
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.90289305  0.07021162  0.87758636  1
+  S  S1  1  0.95468769  0.60385602  0.13580072  1
+  S  S2  1  0.95575546  0.10356868  0.34571619  1
+  S  S3  1  0.46267261  0.93394851  0.09867762  1
+  S  S4  1  0.98815828  0.55467544  0.60288464  1
+  S  S5  1  0.45815026  0.41200154  0.85050458  1
+  S  S6  1  0.42110237  0.91053921  0.61778009  1
+  S  S7  1  0.48230195  0.44092913  0.37499322  1
+  Al  Al8  1  0.82575802  0.92512050  0.12478958  1
+  Al  Al9  1  0.53697880  0.07416040  0.84870158  1
+  Al  Al10  1  0.84551379  0.43030605  0.36338373  1
+  Al  Al11  1  0.35404986  0.57061166  0.61323038  1
+  Li  Li12  1  0.85244364  0.43974352  0.87184949  1
+  Li  Li13  1  0.97261623  0.92056829  0.61010973  1
+  Li  Li14  1  0.34586811  0.58169978  0.10889756  1
+  Li  Li15  1  0.35121321  0.09492783  0.35491846  1

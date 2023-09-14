@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_GaCuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32711410
+_cell_length_b   5.49697862
+_cell_length_c   6.64247085
+_cell_angle_alpha   89.99999117
+_cell_angle_beta   89.99981874
+_cell_angle_gamma   89.99996485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaCuO2
+_chemical_formula_sum   'Ga4 Cu4 O8'
+_cell_volume   194.51168872
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.12543173  0.93546484  0.09455303  1
+  O  O1  1  0.62543089  0.05619908  0.88877903  1
+  O  O2  1  0.07638720  0.90050507  0.63761874  1
+  O  O3  1  0.07638393  0.40050589  0.84571449  1
+  O  O4  1  0.57638406  0.09116073  0.34571479  1
+  O  O5  1  0.57638677  0.59116168  0.13761918  1
+  O  O6  1  0.12543082  0.43546770  0.38877892  1
+  O  O7  1  0.62543177  0.55620195  0.59455311  1
+  Ga  Ga8  1  0.97581523  0.07504786  0.86768716  1
+  Ga  Ga9  1  0.47581590  0.91661779  0.11564610  1
+  Ga  Ga10  1  0.97581607  0.57504921  0.61564598  1
+  Ga  Ga11  1  0.47581507  0.41661897  0.36768720  1
+  Cu  Cu12  1  0.97236600  0.06170362  0.36159095  1
+  Cu  Cu13  1  0.97236891  0.56170175  0.12174301  1
+  Cu  Cu14  1  0.47236817  0.92996398  0.62174355  1
+  Cu  Cu15  1  0.47236609  0.42996322  0.86159141  1
