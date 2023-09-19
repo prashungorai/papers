@@ -17,3 +17,4 @@ The files in this repository are curated and maintained by
 "Defect Chemistry and Doping of Lead Phosphate Oxo Apatite Pb<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>O"
 
 M. Toriyama, C. Lee, G. J. Snyder, and P. Gorai, *Submitted*.
+
