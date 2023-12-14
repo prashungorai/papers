@@ -12,7 +12,7 @@ The files in this repository are curated and maintained by
 
 ### Cite
 
-"Defect Control Strategies for Al<sub>1-x</sub>Gd<sub>x</sub>N alloys Alloys"
+"Defect Control Strategies for Al<sub>1-x</sub>Gd<sub>x</sub>N Alloys"
 
 N. Ud Din, C.-W. Lee, K. Yazawa, W. Nemeth, R. W. Smaha, N. M. Haegel, and P. Gorai, *Submitted*.
 
