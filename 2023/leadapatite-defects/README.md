@@ -2,6 +2,8 @@
 
 This repository contains the relaxed structure files for each native defect and dopant in Pb<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>O calculated using VASP.
 
+This repository accompanies the paper, [Defect Chemistry and Doping of Lead Phosphate Oxo Apatite Pb<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>O](https://pubs.acs.org/doi/10.1021/acsenergylett.3c02544), *ACS Energy Lett.* **9**, 2, 428-431 (2024).
+
 
 ### Authors
 
@@ -14,7 +16,15 @@ The files in this repository are curated and maintained by
 
 ### Cite
 
-"Defect Chemistry and Doping of Lead Phosphate Oxo Apatite Pb<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>O"
-
-M. Toriyama, C. Lee, G. J. Snyder, and P. Gorai, *Submitted*.
-
+```
+@article{toriyama2024,
+  title={Defect Chemistry and Doping of Lead Phosphate Oxo Apatite Pb10 (PO4) 6O},
+  author={Toriyama, Michael Y and Lee, Cheng-Wei and Snyder, G Jeffrey and Gorai, Prashun},
+  journal={ACS Energy Lett.},
+  volume={9},
+  number={2},
+  pages={428--431},
+  year={2024},
+  publisher={ACS Publications}
+}
+```
