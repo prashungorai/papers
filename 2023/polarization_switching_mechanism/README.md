@@ -2,7 +2,7 @@
 
 This repository contains (1) calculated structures along the polarization switching pathway (obtained from solid-state nudged elastic band) for wurtzite-type multinary compounds and Al<sub>1-x</sub>Sc<sub>x</sub>N alloys, (2) corresponding polarization of the structures, and (3) five unique non-polar half-switched structures identified in the paper.  The structures are provided in both VASP POSCAR and CIF formats
 
-This repository accompanies the paper, [Switching it up: New mechanisms revealed in wurtzite-type ferroelectrics](https://www.science.org/doi/abs/10.1126/sciadv.adl0848), *Science Advances* **10**, 20, eadl0848 (2024).
+This repository accompanies the paper, [Switching it up: New mechanisms revealed in wurtzite-type ferroelectrics](https://www.science.org/doi/abs/10.1126/sciadv.adl0848), *Sci. Adv.* **10**, 20, eadl0848 (2024).
 
 
 ### Authors
