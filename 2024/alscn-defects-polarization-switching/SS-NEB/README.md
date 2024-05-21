@@ -1,7 +1,7 @@
 # VASP inputs and structures along the polarization inversion pathway
 
 NOTE:
-1. structures are provided in POSCAR and cif format
+1. Structures are provided in both POSCAR and cif formats
 
 2. The Python script that use Pymatgen to calculate spontaneous polarization is also provided
 
