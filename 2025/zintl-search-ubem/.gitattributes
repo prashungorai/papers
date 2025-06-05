@@ -1,0 +1,2 @@
+ubem_training_pretrained_model/best_model.hdf5.gz filter=lfs diff=lfs merge=lfs -text
+m3gnet_prediction_validation/m3gnet_relaxed_structures.tar.gz filter=lfs diff=lfs merge=lfs -text
