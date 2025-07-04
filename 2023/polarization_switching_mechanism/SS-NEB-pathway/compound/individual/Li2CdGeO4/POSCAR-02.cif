@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2CdGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76806036
+_cell_length_b   5.62368022
+_cell_length_c   5.22909464
+_cell_angle_alpha   90.00000085
+_cell_angle_beta   90.00021428
+_cell_angle_gamma   90.00074705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CdGeO4
+_chemical_formula_sum   'Li4 Cd2 Ge2 O8'
+_cell_volume   199.02669999
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  -0.01666974  0.17357364  0.48265267  1
+  Ge  Ge1  1  -0.51667012  0.80204554  0.95458038  1
+  Li  Li2  1  -0.27046835  0.31752974  0.96782459  1
+  Li  Li3  1  -0.76285279  0.31752326  0.96781093  1
+  Li  Li4  1  -0.26993706  0.66004810  0.46163295  1
+  Li  Li5  1  -0.76338093  0.66002665  0.46162863  1
+  O  O6  1  -0.01666439  0.18952837  0.08317745  1
+  O  O7  1  -0.01666733  0.86049531  0.53765937  1
+  O  O8  1  -0.72553424  0.65060105  0.08299034  1
+  O  O9  1  -0.30780944  0.65060265  0.08299581  1
+  O  O10  1  -0.79854524  0.32751956  0.57231958  1
+  O  O11  1  -0.23478867  0.32752486  0.57231806  1
+  O  O12  1  -0.51666511  0.11321960  0.03261801  1
+  O  O13  1  -0.51666706  0.78554875  0.61376459  1
+  Cd  Cd14  1  -0.01666960  0.80774411  0.99954408  1
+  Cd  Cd15  1  -0.51666867  0.15646235  0.45810984  1
