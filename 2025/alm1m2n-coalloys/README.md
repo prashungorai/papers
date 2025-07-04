@@ -11,7 +11,7 @@ The files in this repository are curated and maintained by
 * Victoria M. Bradford 
 * Thi X. Nguyen
 * Cheng-Wei Lee
-* Prashun Gorai](mailto:goraip[at]rpi[dot]edu)
+* [Prashun Gorai](mailto:goraip[at]rpi[dot]edu)
 
 Cite
 
