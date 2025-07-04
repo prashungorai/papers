@@ -9,9 +9,9 @@ This repository accompanies the paper "The More the Better: Al<sub>1−x</sub>(M
 The files in this repository are curated and maintained by
 
 * Victoria M. Bradford 
-* [Thi X. Nguyen](mailto:nguyet18[at]rpi[dot]edu)
-* [Cheng-Wei Lee](mailto:clee2[at]mines[dot]edu)
-* [Prashun Gorai](mailto:pgorai[at]mines[dot]edu)
+* Thi X. Nguyen
+* Cheng-Wei Lee
+* Prashun Gorai](mailto:goraip[at]rpi[dot]edu)
 
 Cite
 
