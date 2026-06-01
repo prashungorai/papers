@@ -9,7 +9,7 @@ This repository accompanies the paper "Rethinking How Band Gap Changes Enable Fe
 
 The files in this repository are curated and maintained by
 
-* [Thi X. Nguyen](mailto:nguyet18[at]rpi[dot]edu)
+* [Thi Nguyen](mailto:nguyet18[at]rpi[dot]edu)
 * [Prashun Gorai](mailto:goraip[at]rpi[dot]edu)
 
 Cite
