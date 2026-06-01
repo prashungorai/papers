@@ -1,0 +1,34 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Zn   O                                '
+_cell_length_a                         3.371915
+_cell_length_b                         3.371908
+_cell_length_c                         4.976690
+_cell_angle_alpha                      90.000023
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      119.999336
+_cell_volume                           49.003431
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Zn1        1.0     0.666663     0.333327     0.455093    Uiso  ? Zn
+   Zn2        1.0     0.333337     0.666672     0.955093    Uiso  ? Zn
+   O1         1.0     0.666673     0.333337     0.045963    Uiso  ? O
+   O2         1.0     0.333327     0.666663     0.545963    Uiso  ? O

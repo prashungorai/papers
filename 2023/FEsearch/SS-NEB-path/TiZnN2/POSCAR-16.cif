@@ -1,0 +1,46 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Ti   Zn   N                           '
+_cell_length_a                         4.710014
+_cell_length_b                         5.976368
+_cell_length_c                         6.909315
+_cell_angle_alpha                      90.000183
+_cell_angle_beta                       90.000008
+_cell_angle_gamma                      90.000183
+_cell_volume                           194.488765
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ti1        1.0     0.059182     0.921169     0.370783    Uiso  ? Ti
+   Ti2        1.0     0.059182     0.421168     0.129217    Uiso  ? Ti
+   Ti3        1.0     0.559182     0.089939     0.629216    Uiso  ? Ti
+   Ti4        1.0     0.559182     0.589939     0.870783    Uiso  ? Ti
+   Zn1        1.0     0.048589     0.921947     0.879248    Uiso  ? Zn
+   Zn2        1.0     0.548590     0.089174     0.120752    Uiso  ? Zn
+   Zn3        1.0     0.048590     0.421947     0.620751    Uiso  ? Zn
+   Zn4        1.0     0.548588     0.589173     0.379248    Uiso  ? Zn
+   N1         1.0     0.993961     0.096124     0.133756    Uiso  ? N
+   N2         1.0     0.493962     0.914983     0.866245    Uiso  ? N
+   N3         1.0     0.979625     0.077676     0.614388    Uiso  ? N
+   N4         1.0     0.979626     0.577676     0.885612    Uiso  ? N
+   N5         1.0     0.479625     0.933433     0.385611    Uiso  ? N
+   N6         1.0     0.479625     0.433434     0.114389    Uiso  ? N
+   N7         1.0     0.993961     0.596124     0.366244    Uiso  ? N
+   N8         1.0     0.493962     0.414983     0.633755    Uiso  ? N

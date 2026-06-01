@@ -1,0 +1,46 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'S    Al   Li                          '
+_cell_length_a                         6.245656
+_cell_length_b                         6.597775
+_cell_length_c                         8.040589
+_cell_angle_alpha                      89.887947
+_cell_angle_beta                       91.369637
+_cell_angle_gamma                      90.424194
+_cell_volume                           331.227805
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   S1         1.0     0.902893     0.070212     0.877586    Uiso  ? S
+   S2         1.0     0.954688     0.603856     0.135801    Uiso  ? S
+   S3         1.0     0.955755     0.103569     0.345716    Uiso  ? S
+   S4         1.0     0.462673     0.933949     0.098678    Uiso  ? S
+   S5         1.0     0.988158     0.554675     0.602885    Uiso  ? S
+   S6         1.0     0.458150     0.412002     0.850505    Uiso  ? S
+   S7         1.0     0.421102     0.910539     0.617780    Uiso  ? S
+   S8         1.0     0.482302     0.440929     0.374993    Uiso  ? S
+   Al1        1.0     0.825758     0.925121     0.124790    Uiso  ? Al
+   Al2        1.0     0.536979     0.074160     0.848702    Uiso  ? Al
+   Al3        1.0     0.845514     0.430306     0.363384    Uiso  ? Al
+   Al4        1.0     0.354050     0.570612     0.613230    Uiso  ? Al
+   Li1        1.0     0.852444     0.439744     0.871849    Uiso  ? Li
+   Li2        1.0     0.972616     0.920568     0.610110    Uiso  ? Li
+   Li3        1.0     0.345868     0.581700     0.108898    Uiso  ? Li
+   Li4        1.0     0.351213     0.094928     0.354918    Uiso  ? Li

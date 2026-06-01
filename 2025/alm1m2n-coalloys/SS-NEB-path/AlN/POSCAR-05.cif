@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_AlN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.24477734
+_cell_length_b   3.24477739
+_cell_length_c   4.49956077
+_cell_angle_alpha   89.99999999
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.00000907
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlN
+_chemical_formula_sum   'Al2 N2'
+_cell_volume   41.02707927
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.33333335  0.28333442  0.67466433  1
+  Al  Al1  1  0.66666684  0.61666769  0.17466433  1
+  N  N2  1  0.66666683  0.61666770  0.74376026  1
+  N  N3  1  0.33333335  0.28333439  0.24376026  1

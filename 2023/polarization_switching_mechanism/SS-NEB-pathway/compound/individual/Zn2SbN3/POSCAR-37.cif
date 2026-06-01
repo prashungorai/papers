@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Zn2SbN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.15376441
+_cell_length_b   5.87802270
+_cell_length_c   5.53743183
+_cell_angle_alpha   89.80831420
+_cell_angle_beta   89.93311656
+_cell_angle_gamma   90.20375948
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2SbN3
+_chemical_formula_sum   'Zn8 Sb4 N12'
+_cell_volume   330.49223189
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.83559101  -0.63372022  -0.17795383  1
+  Zn  Zn1  1  0.17492896  -0.64175066  -0.12714656  1
+  Zn  Zn2  1  0.33191310  -0.13949965  -0.03863076  1
+  Zn  Zn3  1  0.66891364  -0.13458613  -0.04701686  1
+  Zn  Zn4  1  0.83581506  -0.32010333  -0.67600494  1
+  Zn  Zn5  1  0.18138126  -0.31632586  -0.55459134  1
+  Zn  Zn6  1  0.67025084  -0.82255276  -0.54750230  1
+  Zn  Zn7  1  0.33533712  -0.82531047  -0.54443201  1
+  Sb  Sb8  1  0.99951948  -0.15048041  -0.17319792  1
+  Sb  Sb9  1  0.00203352  -0.79968503  -0.67120229  1
+  Sb  Sb10  1  0.50339606  -0.65510032  -0.05151837  1
+  Sb  Sb11  1  0.50382806  -0.30488750  -0.55208680  1
+  N  N12  1  0.00112771  -0.82057943  -0.04745367  1
+  N  N13  1  0.99728893  -0.13012076  -0.54845607  1
+  N  N14  1  0.17274775  -0.30654439  -0.15994998  1
+  N  N15  1  0.84139175  -0.31422704  -0.05283752  1
+  N  N16  1  0.17036364  -0.64968256  -0.60007434  1
+  N  N17  1  0.84161579  -0.64090416  -0.55455222  1
+  N  N18  1  0.66370258  -0.81319494  -0.16926766  1
+  N  N19  1  0.34234090  -0.81570395  -0.16732854  1
+  N  N20  1  0.66337210  -0.14320006  -0.66968877  1
+  N  N21  1  0.34155141  -0.14810822  -0.66940331  1
+  N  N22  1  0.50322983  -0.32287583  -0.17722110  1
+  N  N23  1  0.50407390  -0.63657011  -0.67692155  1
